@@ -1,0 +1,3 @@
+Template engine : EJS (based on javascript similar syntax with print sentences like =pointer
+Framwork used for Model View Controller setup : express
+Database : mongo DB
